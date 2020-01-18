@@ -21,8 +21,10 @@
 {"id":19,"Nama Kampus":"Obninsk State Technical University for Nuclear Power Engineering","Kategori Berdasarkan Kota":"Lundazi"},
 {"id":20,"Nama Kampus":"Philadelphia College of Bible","Kategori Berdasarkan Kota":"Miastko"}
 ]
+}
+{
 
-  "hewan"
+  "hewan":
 [{"id":1,"nama_binatang":"Racer, american","kategori":"Khaki"},
 {"id":2,"nama_binatang":"Whale, southern right","kategori":"Khaki"},
 {"id":3,"nama_binatang":"Chital","kategori":"Red"},
