@@ -21,4 +21,28 @@
 {"id":19,"Nama Kampus":"Obninsk State Technical University for Nuclear Power Engineering","Kategori Berdasarkan Kota":"Lundazi"},
 {"id":20,"Nama Kampus":"Philadelphia College of Bible","Kategori Berdasarkan Kota":"Miastko"}
 ]
+  
+}
+{
+  "Hewan":[
+    [{"id":1,"nama_binatang":"Racer, american","kategori":"Khaki"},
+{"id":2,"nama_binatang":"Whale, southern right","kategori":"Khaki"},
+{"id":3,"nama_binatang":"Chital","kategori":"Red"},
+{"id":4,"nama_binatang":"Cormorant (unidentified)","kategori":"Purple"},
+{"id":5,"nama_binatang":"Greater rhea","kategori":"Khaki"},
+{"id":6,"nama_binatang":"Skunk, western spotted","kategori":"Purple"},
+{"id":7,"nama_binatang":"Huron","kategori":"Mauv"},
+{"id":8,"nama_binatang":"Red-winged hawk (unidentified)","kategori":"Pink"},
+{"id":9,"nama_binatang":"Glider, squirrel","kategori":"Orange"},
+{"id":10,"nama_binatang":"Magistrate black colobus","kategori":"Purple"},
+{"id":11,"nama_binatang":"Argalis","kategori":"Crimson"},
+{"id":12,"nama_binatang":"North American river otter","kategori":"Green"},
+{"id":13,"nama_binatang":"Eagle, tawny","kategori":"Yellow"},
+{"id":14,"nama_binatang":"Kongoni","kategori":"Crimson"},
+{"id":15,"nama_binatang":"Cattle egret","kategori":"Purple"},
+{"id":16,"nama_binatang":"Brown and yellow marshbird","kategori":"Aquamarine"},
+{"id":17,"nama_binatang":"Raccoon, crab-eating","kategori":"Pink"},
+{"id":18,"nama_binatang":"White-fronted capuchin","kategori":"Puce"},
+{"id":19,"nama_binatang":"Bunting, crested","kategori":"Maroon"},
+{"id":20,"nama_binatang":"Common eland","kategori":"Red"}]
 }
