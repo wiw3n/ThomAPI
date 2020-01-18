@@ -25,7 +25,7 @@
 }
 {
   "Hewan":[
-    [{"id":1,"nama_binatang":"Racer, american","kategori":"Khaki"},
+{"id":1,"nama_binatang":"Racer, american","kategori":"Khaki"},
 {"id":2,"nama_binatang":"Whale, southern right","kategori":"Khaki"},
 {"id":3,"nama_binatang":"Chital","kategori":"Red"},
 {"id":4,"nama_binatang":"Cormorant (unidentified)","kategori":"Purple"},
