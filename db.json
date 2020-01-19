@@ -1,6 +1,5 @@
 {
-"Kuliah.com",
-"namauniversitas":[
+"Kampus Pilihan":Makasar 2020,"namauniversitas":[
 {"id":1,"Nama Kampus":"Ecole Nationale Supérieure d'Hydraulique et de Mécanique de Grenoble","Kategori Berdasarkan Kota":"Kambia"},
 {"id":2,"Nama Kampus":"University Of Medical Sciences & Technology (UMST)","Kategori Berdasarkan Kota":"Kwidzyn"},
 {"id":3,"Nama Kampus":"The College of Santa Fe","Kategori Berdasarkan Kota":"Garango"},
@@ -20,5 +19,7 @@
 {"id":17,"Nama Kampus":"Technical University of Warsaw","Kategori Berdasarkan Kota":"Vostryakovo"},
 {"id":18,"Nama Kampus":"Universität Augsburg","Kategori Berdasarkan Kota":"Velké Losiny"},
 {"id":19,"Nama Kampus":"Obninsk State Technical University for Nuclear Power Engineering","Kategori Berdasarkan Kota":"Lundazi"},
-{"id":20,"Nama Kampus":"Philadelphia College of Bible","Kategori Berdasarkan Kota":"Miastko"}]
+{"id":20,"Nama Kampus":"Philadelphia College of Bible","Kategori Berdasarkan Kota":"Miastko"}],
+"updateTerakhur":"201(-06-05T00:17:50z"
+
 }
